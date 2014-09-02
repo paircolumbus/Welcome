@@ -1,5 +1,11 @@
+SignUp Here
+===
+If you're not a member of our group and would like to become one, sign up below.
+[JOIN HERE](tutoring.goodproduce.net)
+
+
 Welcome
-=======
+===
 
 As a member of this group, you will be able to clone, push & pull to various tutoring group projects & drills that we'll be working on.
 
