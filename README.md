@@ -1,7 +1,8 @@
-SignUp Here
+JOIN US
 ===
-If you're not a member of our group and would like to become one, sign up below.
-[JOIN HERE](tutoring.goodproduce.net)
+If you'd like to join our group, sign up below.
+
+[SIGN UP HERE](http://tutoring.goodproduce.net)
 
 
 Welcome
