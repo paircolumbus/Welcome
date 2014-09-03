@@ -1,4 +1,4 @@
-JOIN US
+Join Us
 ===
 If you'd like to join our group, sign up below.
 
@@ -19,3 +19,7 @@ Have fun!
 Best,
 
 -Jay
+
+Resources
+===
+Here's some great [links](https://gist.github.com/jaybobo/86e685908bc51601ee07) to helpful learning material.  
