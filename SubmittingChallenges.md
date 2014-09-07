@@ -1,5 +1,5 @@
 #How to submit challenges via GitHub
-NOTE: Don't run `git push origin master` please :) 
+__NOTE:__ Don't run `git push origin master` please :) 
 
 1. [Download & Install Git](https://www.atlassian.com/git/tutorial/git-basics)
   - 'clone' the drill repo -> https://github.com/columbustutoringgroup/LetsDrill
