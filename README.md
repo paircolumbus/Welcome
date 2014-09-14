@@ -1,8 +1,9 @@
-Join Us
+Join Us / View Schedule
 ===
 If you'd like to join our group, sign up below.
 
 [SIGN UP HERE](https://docs.google.com/a/goodproduce.net/forms/d/11WzmAGErqLTQ6NAwtBOTVl_BOlkXdj3L-8tbzBNGb9s/viewform)
+[View Schedule](https://github.com/columbustutoringgroup/Welcome/blob/master/Schedule2014.md)
 
 
 Welcome
@@ -17,6 +18,7 @@ Have fun!
 Best,
 
 -Jay
+
 
 Resources
 ===
