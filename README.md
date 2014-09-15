@@ -10,13 +10,11 @@ If you'd like to join our group, sign up below.
 Welcome
 ===
 
-As a member of this group, you will be able to clone, push & pull to various tutoring group projects & drills that we'll be working on.
+As a member of this group, you will learn how to create websites, scripts & applications using Ruby on Rails, SQL & Javascript. We welcome all people of various skill levels. Our members include beginners, test engineers, programmers and accomplished web developers.
 
-If you're new to Git & GitHub, feel free to practice your Git commands here by creating your own repos and pushing them up to this group. Contact me if you have any questions.
+Sign up above. Education shouldn't have to be expensive.
 
-Have fun!
-
-Best,
+See you soon,
 
 -Jay
 
