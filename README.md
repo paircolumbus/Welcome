@@ -10,7 +10,7 @@ Welcome
 
 As a member of this group, you will learn how to create websites, scripts & applications using Ruby on Rails, SQL & Javascript. We welcome all people of various skill levels. Our members include beginners, test engineers, programmers and accomplished web developers.
 
-__We provide__
+__We provide...__
   - Small group (8 maximum)  
   - Email check-in's
   - Bimonthly meetups
