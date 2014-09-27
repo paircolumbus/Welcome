@@ -29,7 +29,7 @@ Here's some great [links](https://gist.github.com/jaybobo/86e685908bc51601ee07) 
 
 - [How to submit challenges with GitHub](https://github.com/columbustutoringgroup/Welcome/blob/master/SubmittingChallenges.md)
 
-GitHub tutorials
-- try.github.com
-- gitimmersion.com
+__GitHub Tutorials__
+- http://www.try.github.com
+- http://www.gitimmersion.com
 - Git for ages 4 and up: http://www.youtube.com/watch?v=1ffBJ4sVUb4
