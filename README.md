@@ -28,3 +28,8 @@ Resources
 Here's some great [links](https://gist.github.com/jaybobo/86e685908bc51601ee07) to helpful learning material including Beginner & Intermediate exercises, tutorials, and important documentation.
 
 - [How to submit challenges with GitHub](https://github.com/columbustutoringgroup/Welcome/blob/master/SubmittingChallenges.md)
+
+GitHub tutorials
+- try.github.com
+- gitimmersion.com
+- Git for ages 4 and up: http://www.youtube.com/watch?v=1ffBJ4sVUb4
