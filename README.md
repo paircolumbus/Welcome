@@ -26,7 +26,7 @@ Challenge Guide
 ===
 Are you a bit unsure of which challenge to tackle first? Here's a quick guide that lists challenges by difficulty level.
 
-- [Session One: Challenge Guide]()
+- [Session One: Challenge Guide](https://github.com/columbustutoringgroup/Welcome/blob/master/ChallengeGuide.md)
 
 Resources
 ===
