@@ -22,6 +22,11 @@ See you soon,
 
 -Jay
 
+Challenge Guide
+===
+Are you a bit unsure of which challenge to tackle first? Here's a quick guide that lists challenges by difficulty level.
+
+- [Session One: Challenge Guide]()
 
 Resources
 ===
