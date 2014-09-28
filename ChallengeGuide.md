@@ -16,7 +16,7 @@ Your goal is to complete each drill successfully and comfortably using common Ru
 
 __Intermediate__ 
 Your goal is to complete each beginner drill in under 15-20 minutes.
-[Counting Words](https://github.com/columbustutoringgroup/CountingWords)
-[MVCgame](https://github.com/columbustutoringgroup/MVCgame)
+ - [Counting Words](https://github.com/columbustutoringgroup/CountingWords)
+ - [MVCgame](https://github.com/columbustutoringgroup/MVCgame)
 
 
