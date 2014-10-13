@@ -30,8 +30,9 @@ Are you a bit unsure of which challenge to tackle first? Here's a quick guide th
 
 Resources
 ===
-Here's some great [links](https://gist.github.com/jaybobo/86e685908bc51601ee07) to helpful learning material including Beginner & Intermediate exercises, tutorials, and important documentation.
+Here's some great links to helpful learning material including Beginner & Intermediate exercises, tutorials, and important documentation.
 
+- [New Members: Start Here](https://github.com/columbustutoringgroup/Welcome/blob/master/LearningResources.md)
 - [How to submit challenges with GitHub](https://github.com/columbustutoringgroup/Welcome/blob/master/SubmittingChallenges.md)
 
 __GitHub Tutorials__
