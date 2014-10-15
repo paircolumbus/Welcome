@@ -2,20 +2,20 @@
 __NOTE:__ Don't run `git push origin master` please :) 
 
 1. [Download & Install Git](https://www.atlassian.com/git/tutorial/git-basics)
-  - 'clone' the drill repo -> https://github.com/columbustutoringgroup/LetsDrill
+  - 'git clone' the drill you want to work on.
   - Write your code
 
 2. [Checking Stats & Commiting](https://www.atlassian.com/git/tutorial/git-basics)
-  - check your 'status'
-  - 'add'
-  - 'commit'
+  - check your 'git status'
+  - 'git add'
+  - 'git commit'
 
 3. Branching
-  - 'branch'
-  - 'checkout'
+  - create a new 'git branch'
+  - 'git checkout' that branch
 
 4. [Using Remotes](https://www.atlassian.com/git/tutorial/remote-repositories)
-  - 'push origin [branch-name]'
+  - Push your changes up to the remote, 'git push origin [branch-name]'
 
 5. Documentation
   - http://git-scm.com/documentation
