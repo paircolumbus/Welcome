@@ -10,12 +10,7 @@ __Intermediate__ - Very familiar with Ruby, JS, MacOS/Linux, Shell, Git & your t
 
 ##Intermediate
 - Review the [Enumerable Methods](http://ruby-doc.org/core-2.1.2/Enumerable.html)
-- Create a script that accepts user input via the command line
-- It should print a menu to screen and give player multiple options (i.e. start, play again, view help, exit, etc)
-- It should be object oriented and not expose important functionality
-- It should use the MVC pattern. Consider prints & puts as a part of your view. 
-- Ideas to explore: Deaf Grandma, Customized 99 Bottles of Beer, Choose Your Own Adventure
-
+- Complete our [MVCgame Challenge](https://github.com/columbustutoringgroup/MVCgame)
 
 ##Beginner
   [Typing.io](https://typing.io/) - I'd highly recommend becoming a touch typer if you're not already. Try out the Ruby track and aim for at least 40wpm.
