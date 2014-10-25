@@ -23,5 +23,6 @@ Your goal is to complete each beginner drill in under 15-20 minutes.
  - [Counting Words](https://github.com/columbustutoringgroup/CountingWords)
  - [MVCgame](https://github.com/columbustutoringgroup/MVCgame)
  - [Bitly Clone](https://github.com/columbustutoringgroup/BitlyClone)
+ - [Not Allowed: User Auth](https://github.com/columbustutoringgroup/NotAllowed)
 
 
