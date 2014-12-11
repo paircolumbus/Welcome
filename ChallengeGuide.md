@@ -18,7 +18,7 @@ Your goal is to complete each drill successfully and comfortably using common Ru
  - [Fix the Tree TDD](https://github.com/columbustutoringgroup/FixTheTreeTDD)
  - [MVCgame](https://github.com/columbustutoringgroup/MVCgame)
  
-__Automated Testing__
+__Automated Testing__  
 Your goal is to complete each beginner drill successfully and have a good understand of how to use common Ruby testing tools like Capybara, RSpec, & Cucumber.
  - [Do You Know The DOM](https://github.com/columbustutoringgroup/DoYouKnowTheDOM)
  - [Do You Know The DOM 2](https://github.com/columbustutoringgroup/DoYouKnowTheDom2)  
