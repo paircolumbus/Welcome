@@ -36,7 +36,7 @@ Resources
 ===
 Here's some great links to helpful learning material including Beginner & Intermediate exercises, tutorials, and important documentation.
 
-- [New Members: Start Here](https://github.com/columbustutoringgroup/Welcome/blob/master/LearningResources.md)
+- [New Members: Start Here](https://github.com/columbustutoringgroup/Welcome/blob/master/GettingStarted.md)
 - [How to submit challenges with GitHub](https://github.com/columbustutoringgroup/Welcome/blob/master/SubmittingChallenges.md)
 
 __GitHub Tutorials__
