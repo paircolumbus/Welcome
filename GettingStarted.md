@@ -1,12 +1,6 @@
 #Tutoring Resources
 
-Here are some resources to prepare yourself for learning and building in Ruby on Rails. 
-
-__Beginner__ - Rusty or new to web development, limited knowledge of programming languages & related tools
-
-__Intermediate__ - Very familiar with Ruby, JS, MacOS/Linux, Shell, Git & your text editor of choice.  
-
-- - -
+Before we begin coding, let's setup your local development environment. Mac users should note that their operating systems come with a system Ruby & Python. Consider the setup below to be optional.
 
 ##Setup :(
 - Mac Users  
@@ -23,7 +17,7 @@ __Note:__ Installing software is dreaded even by seasoned developers, if you hav
 Software engineers routinely have to work with different versions of language in development and testing environments depending on the application. 
 
 __Recommendations:__
-- [chruby](https://github.com/postmodern/chruby) or [rbenv](https://github.com/sstephenson/rbenv) for Ruby management  
+- [chruby](https://github.com/postmodern/chruby) or [rbenv](https://github.com/sstephenson/rbenv) for Ruby management. RVM is no longer preferred.  
 - [virtualenv](https://virtualenv.pypa.io/en/latest/installation.html) and [virtualenvwrapper](https://virtualenvwrapper.readthedocs.org/en/latest/) are preferred for Python  
 - [nvm](https://github.com/creationix/nvm) for Javascript/NodeJS
 
