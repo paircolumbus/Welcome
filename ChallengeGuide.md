@@ -1,6 +1,6 @@
 #Challenge Guide
 
-Challenges are marked by difficultly level. 
+Challenges are marked by difficulty level. 
 
 __Beginner__ - Rusty or new to web development, limited knowledge of programming languages & related tools
 
@@ -10,7 +10,7 @@ __Intermediate__ - Very familiar with Ruby, JS, MacOS/Linux, Shell, Git & your t
 
 ##Session One (September - December 2014)
 __Beginner__  
-Your goal is to complete each drill successfully and comfortably using common Ruby methods & syntax.
+Your goal is to complete each drill successfully and comfortably using common Ruby methods & syntax. If you are new to programming, please start with our [beginner resources](https://github.com/columbustutoringgroup/Welcome/blob/master/BeginnerResources.md) before continuing.  
  - [Let's Drill](https://github.com/columbustutoringgroup/LetsDrill)
  - [More Enumerables](https://github.com/columbustutoringgroup/MoreEnumerables)
  - [More Drills With RSpec](https://github.com/columbustutoringgroup/MoreDrillsWithRSpec)
@@ -19,7 +19,7 @@ Your goal is to complete each drill successfully and comfortably using common Ru
  - [MVCgame](https://github.com/columbustutoringgroup/MVCgame)
  
 __Automated Testing__  
-Your goal is to complete each beginner drill successfully and have a good understand of how to use common Ruby testing tools like Capybara, RSpec, & Cucumber.
+Your goal is to complete each beginner drill successfully and have a good understanding of how to use common Ruby testing tools like Capybara, RSpec, & Cucumber.  
  - [Do You Know The DOM](https://github.com/columbustutoringgroup/DoYouKnowTheDOM)
  - [Do You Know The DOM 2](https://github.com/columbustutoringgroup/DoYouKnowTheDom2)  
  - [Parser Challenge: Version 1](https://github.com/columbustutoringgroup/ParserChallenge1)
