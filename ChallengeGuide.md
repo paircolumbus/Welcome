@@ -33,4 +33,5 @@ Your goal is to complete each beginner & automated testing drill and achieve an 
  - [Healthy Relationships](https://github.com/columbustutoringgroup/HealthyRelationships)
  - [Form Validator](https://github.com/columbustutoringgroup/FormValidator)
  - [Bitly Clone](https://github.com/columbustutoringgroup/BitlyClone)
- - [Not Allowed: User Auth](https://github.com/columbustutoringgroup/NotAllowed)
+ - [Not Allowed: User Auth](https://github.com/columbustutoringgroup/NotAllowed)  
+ - [Socket & Thread](https://github.com/columbustutoringgroup/SocketAndThread)
