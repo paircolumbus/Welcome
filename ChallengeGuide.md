@@ -11,6 +11,7 @@ __Intermediate__ - Very familiar with Ruby, JS, MacOS/Linux, Shell, Git & your t
 ##Session One (September - December 2014)
 __Beginner__  
 Your goal is to complete each drill successfully and comfortably using common Ruby methods & syntax. If you are new to programming, please start with our [beginner resources](https://github.com/columbustutoringgroup/Welcome/blob/master/BeginnerResources.md) before continuing.  
+ - [Ruby Refresher](https://github.com/paircolumbus/RubyRefresher)  
  - [Let's Drill](https://github.com/columbustutoringgroup/LetsDrill)
  - [More Enumerables](https://github.com/columbustutoringgroup/MoreEnumerables)
  - [More Drills With RSpec](https://github.com/columbustutoringgroup/MoreDrillsWithRSpec)
