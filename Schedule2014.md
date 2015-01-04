@@ -1,4 +1,3 @@
-Here's our schedule for the rest of the year.
+Here's our schedule for the rest of 2015.
 
-- November 22nd, 11am - 1pm
-- December 13th, 11am - 1pm
+__Schedule TBD:__ For updates, sign up for email list
