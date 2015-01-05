@@ -14,7 +14,7 @@ If you're completely new to programming you may want to consider these resources
 [Python the Hard Way](http://learnpythonthehardway.org/book/) or [Ruby the Hard Way](http://learnrubythehardway.org/book/)
 
 ##Recommended Reading:
-__Read the docs__ -> [Ruby](http://ruby-doc.org/) / [Rails](http://guides.rubyonrails.org/) - It may seem a bit taxing at times, but it's always good to read through key parts of the documentation a few times before tackling an application. 
+__Read the docs__ -> [Ruby](http://ruby-doc.org/) / [Rails](http://guides.rubyonrails.org/) / [Python](https://docs.python.org/2/) / [NodeJS](http://nodejs.org/api/) - It may seem a bit taxing at times, but it's always good to read through key parts of the documentation a few times before tackling an application. 
 
 > Ruby: Read up on the [String](http://ruby-doc.org/core-2.1.2/String.html), [Array](http://ruby-doc.org/core-2.1.2/Array.html), [Hash](http://ruby-doc.org/core-2.1.2/Hash.html), [Enumerable](http://ruby-doc.org/core-2.1.2/Enumerable.html) & [Integer](http://ruby-doc.org/core-2.1.2/Integer.html) methods.
 
