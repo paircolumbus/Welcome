@@ -4,6 +4,7 @@ If you'd like to join our group, sign up below. We are now open to the general p
 
 [Sign Up Here: Email List](https://docs.google.com/a/goodproduce.net/forms/d/11WzmAGErqLTQ6NAwtBOTVl_BOlkXdj3L-8tbzBNGb9s/viewform)  
 [View Meetup Schedule](https://github.com/columbustutoringgroup/Welcome/blob/master/Schedule2015.md)  
+[Attend Here](https://www.eventbrite.com/e/pair-programming-mentoring-covermymeds-tickets-15224426670)
 
 
 Welcome
