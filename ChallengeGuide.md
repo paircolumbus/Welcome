@@ -39,7 +39,7 @@ Your goal is to complete each beginner & automated testing drill and achieve an 
  - [Not Allowed: User Auth](https://github.com/paircolumbus/NotAllowed)  
  
  
-__Advanced__
+__Advanced__  
 These are extra drills used to improve your over full-stack development skills.
  - [Bootstrap Grid](https://github.com/paircolumbus/BootstrapGridSystem) 
  - [Socket & Thread](https://github.com/paircolumbus/SocketAndThread) 
