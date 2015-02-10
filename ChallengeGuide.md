@@ -43,3 +43,6 @@ __Advanced__
 These are extra drills used to improve your over full-stack development skills.
  - [Bootstrap Grid](https://github.com/paircolumbus/BootstrapGridSystem) 
  - [Socket & Thread](https://github.com/paircolumbus/SocketAndThread) 
+
+##Contributing
+We're looking for more challenges! To submit your own for the advancement of others, please check out our section on [contributing]().
