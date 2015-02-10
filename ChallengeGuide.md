@@ -45,4 +45,4 @@ These are extra drills used to improve your over full-stack development skills.
  - [Socket & Thread](https://github.com/paircolumbus/SocketAndThread) 
 
 ##Contributing
-We're looking for more challenges! To submit your own for the advancement of others, please check out our section on [contributing]().
+We're looking for more challenges! To submit your own for the advancement of others, please check out our section on [contributing](/CONTRIBUTING.md).
