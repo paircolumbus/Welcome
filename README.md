@@ -28,7 +28,7 @@ Start Here
 Here's some great links to helpful learning material including our challenge guide, exercises, tutorials, and important documentation.  
 
 - [New Members: Start Here](https://github.com/columbustutoringgroup/Welcome/blob/master/GettingStarted.md)
-- [How to submit challenges with GitHub](https://github.com/columbustutoringgroup/Welcome/blob/master/SubmittingChallenges.md)
+- [How to submit completed challenges with GitHub](https://github.com/columbustutoringgroup/Welcome/blob/master/SubmittingChallenges.md)
 
 __GitHub Tutorials__
 - http://try.github.com
