@@ -8,7 +8,7 @@ Before we begin coding, let's setup your local development environment. Mac user
   - [Install RVM](http://rvm.io/)  
   - [Install Atom Editor](https://atom.io/)
 - Windows Users  
-  - [Ruby Install](http://rubyinstaller.org/)  
+  - [Ruby Install](http://railsinstaller.org/)  
   - [Install Atom](http://chocolatey.org/packages/atom)  
  
 __Note:__ Installing software is dreaded even by seasoned developers, if you have any problems please ask for help.  
