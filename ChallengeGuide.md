@@ -35,6 +35,7 @@ Your goal is to complete each beginner & automated testing drill and achieve an 
  - [Counting Words](https://github.com/paircolumbus/CountingWords)
  - [Healthy Relationships](https://github.com/paircolumbus/HealthyRelationships)
  - [Form Validator](https://github.com/paircolumbus/FormValidator)
+ - [Rap Name Generator](https://github.com/paircolumbus/RapNameGenerator)  
  - [Bitly Clone](https://github.com/paircolumbus/BitlyClone)
  - [Not Allowed: User Auth](https://github.com/paircolumbus/NotAllowed)  
  
