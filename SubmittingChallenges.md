@@ -1,25 +1,22 @@
 #How to submit challenges via GitHub
-__NOTE:__ Don't run `git push origin master` please :) 
 
-1. [Download & Install Git](https://www.atlassian.com/git/tutorial/git-basics)
-  - 'git clone' the drill you want to work on.
-  - Write your code
+If you don't have Git or Ruby installed on your computer, please [start here](https://github.com/paircolumbus/Welcome/blob/master/GettingStarted.md). [Click here](https://github.com/paircolumbus/Welcome/blob/master/ChallengeGuide.md) to see our Challenge Guide.
 
-2. [Checking Stats & Commiting](https://www.atlassian.com/git/tutorial/git-basics)
-  - check your 'git status'
-  - 'git add'
-  - 'git commit'
+##Submitting Challenges for Review
+![submitting challenges](http://i.imgur.com/6dZYqjx.gif)
 
-3. Branching
-  - create a new 'git branch'
-  - 'git checkout' that branch
+- Login to your Github.com account
+- Fork the challenge that you want to work on from Pair Columbus
+- _Clone_ its repo to your computer
+- Create a new _branch_
+- _Add_ & _commit_ your changes
+- _Push_ your changes back to your Github account
+- Issue a _pull request_ for your branch from Github
 
-4. [Using Remotes](https://www.atlassian.com/git/tutorial/remote-repositories)
-  - Push your changes up to the remote, 'git push origin [branch-name]'
+__NOTE:__ The image above is also accessible [here on Imgur](http://i.imgur.com/6dZYqjx).
 
-5. Documentation
-  - http://git-scm.com/documentation
-  - https://www.atlassian.com/git/tutorial
+#Documentation
+- http://git-scm.com/documentation
+- https://www.atlassian.com/git/tutorial
 
-If any of this feels overwhelming, try out the CodeSchool course, [Try Git](https://github.com/columbustutoringgroup/Welcome). It's listed under Welcome->'Resources'. We'll cover the rest later.
 
