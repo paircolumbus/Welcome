@@ -13,6 +13,7 @@ __Note:__ Most of these drills are not domain specific and can be completed with
 
 __Beginner__  
 Your goal is to complete each drill successfully and comfortably using common Ruby methods & syntax. If you are new to programming, please start with our [beginner resources](https://github.com/paircolumbus/Welcome/blob/master/BeginnerResources.md) before continuing.  
+ - [Git It](https://github.com/paircolumbus/Git-It)
  - [Ruby Refresher](https://github.com/paircolumbus/RubyRefresher)  
  - [Let's Drill](https://github.com/paircolumbus/LetsDrill)
  - [More Enumerables](https://github.com/paircolumbus/MoreEnumerables)
