@@ -13,6 +13,8 @@ If you're completely new to programming you may want to consider these resources
 
 [Python the Hard Way](http://learnpythonthehardway.org/book/) or [Ruby the Hard Way](http://learnrubythehardway.org/book/)
 
+[The Odin Project](http://theodinproject.com/) - A road map that guides you through the best free resources for learning web development. It also provides small projects to add to your portfolio and helps you retain the material. Not necessary for Pair Columbus challenges, but it can keep you on track in further studies.
+
 ##Recommended Reading:
 __Read the docs__ -> [Ruby](http://ruby-doc.org/) / [Rails](http://guides.rubyonrails.org/) / [Python](https://docs.python.org/2/) / [NodeJS](http://nodejs.org/api/) - It may seem a bit taxing at times, but it's always good to read through key parts of the documentation a few times before tackling an application. 
 
