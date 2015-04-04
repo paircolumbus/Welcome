@@ -42,8 +42,9 @@ Your goal is to complete each beginner & automated testing drill and achieve an 
  
 __Javascript__  
 These drills will help you develop a basic proficiency in web development, functional & asynchronous programming with JS/Nodejs.
- - [Javascripting 101](https://github.com/paircolumbus/javascripting101)
- - [Form Validator](https://github.com/paircolumbus/FormValidator)
+ - [javascripting 101](https://github.com/paircolumbus/javascripting101)
+ - [Form Validator](https://github.com/paircolumbus/FormValidator)  
+ - [learnyounode](https://github.com/paircolumbus/learnyounode)
  
 __Extra Credit__  
 These are extra drills used to improve your over full-stack development skills.
